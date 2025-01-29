@@ -31,12 +31,3 @@ def setup():
         driver1.quit()
     if driver2:
         driver2.quit()
-
-    # Use options instead of desired_capabilities
-    # driver1 = webdriver.Remote(command_executor=url, options=options_device1)
-    # driver2 = webdriver.Remote(command_executor=url, options=options_device2)
-    #
-    # yield driver1, driver2
-    # # Quit drivers after the test
-    # driver1.quit()
-    # driver2.quit()
