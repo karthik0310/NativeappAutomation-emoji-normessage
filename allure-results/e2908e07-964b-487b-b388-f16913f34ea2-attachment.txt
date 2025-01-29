@@ -1,0 +1,4 @@
+2025-01-27 03:33:12,131 - INFO - Test case started
+2025-01-27 03:33:21,991 - INFO - Message sent successfully from sender device
+2025-01-27 03:33:29,987 - INFO - Message validated successfully on receiver device
+2025-01-27 03:33:29,988 - INFO - Test case ended successfully

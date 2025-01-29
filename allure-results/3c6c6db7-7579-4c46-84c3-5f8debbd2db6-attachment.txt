@@ -1,0 +1,19 @@
+[32mINFO    [0m CustomLogger:test_send_msg.py:13 Test case started
+[32mINFO    [0m base.base_class:base_class.py:50 Element located: com.google.android.apps.messaging:id/start_chat_fab
+[32mINFO    [0m base.base_class:base_class.py:62 Clicked element: com.google.android.apps.messaging:id/start_chat_fab
+[32mINFO    [0m base.base_class:base_class.py:31 Screenshot saved: ./screenshots\Start_Chat_Button_Clicked_20250127_033314.png
+[32mINFO    [0m base.base_class:base_class.py:50 Element located: //android.widget.EditText[@resource-id='ContactSearchField']
+[32mINFO    [0m base.base_class:base_class.py:74 Sent text '+18014194233' to element: //android.widget.EditText[@resource-id='ContactSearchField']
+[32mINFO    [0m base.base_class:base_class.py:50 Element located: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View
+[32mINFO    [0m base.base_class:base_class.py:62 Clicked element: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View
+[32mINFO    [0m base.base_class:base_class.py:31 Screenshot saved: ./screenshots\Contact_Number_Added_20250127_033317.png
+[32mINFO    [0m base.base_class:base_class.py:50 Element located: com.google.android.apps.messaging:id/compose_message_text
+[32mINFO    [0m base.base_class:base_class.py:74 Sent text 'User_1737977597' to element: com.google.android.apps.messaging:id/compose_message_text
+[32mINFO    [0m base.base_class:base_class.py:31 Screenshot saved: ./screenshots\Message_Composed_20250127_033319.png
+[32mINFO    [0m base.base_class:base_class.py:50 Element located: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View[2]/android.widget.Button
+[32mINFO    [0m base.base_class:base_class.py:62 Clicked element: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View[2]/android.widget.Button
+[32mINFO    [0m CustomLogger:test_send_msg.py:25 Message sent successfully from sender device
+[32mINFO    [0m base.base_class:base_class.py:31 Screenshot saved: ./screenshots\Receiver_Message_Screen_20250127_033326.png
+[32mINFO    [0m base.base_class:base_class.py:31 Screenshot saved: ./screenshots\Message_Received_20250127_033328.png
+[32mINFO    [0m CustomLogger:test_send_msg.py:31 Message validated successfully on receiver device
+[32mINFO    [0m CustomLogger:test_send_msg.py:33 Test case ended successfully

@@ -1,0 +1,56 @@
+2025-01-28 03:12:11,054 - INFO - Test case started
+2025-01-28 03:12:22,680 - INFO - Message sent successfully from sender device
+2025-01-28 03:12:30,388 - INFO - Message validated successfully on receiver device
+2025-01-28 03:12:30,389 - INFO - Test case ended successfully
+2025-01-28 04:07:04,395 - INFO - Test case started
+2025-01-28 04:07:13,454 - INFO - Message sent successfully from sender device
+2025-01-28 04:19:17,647 - INFO - Test case started
+2025-01-28 04:19:26,501 - INFO - Message sent successfully from sender device
+2025-01-28 04:22:39,341 - INFO - Test case started
+2025-01-28 04:22:48,427 - INFO - Message sent successfully from sender device
+2025-01-28 04:23:29,758 - INFO - Test case started
+2025-01-28 04:23:40,611 - INFO - Message sent successfully from sender device
+2025-01-28 04:23:48,304 - INFO - Message validated successfully on receiver device
+2025-01-28 04:23:48,305 - INFO - Test case ended successfully
+2025-01-28 04:34:22,321 - INFO - Test case started
+2025-01-28 04:34:31,496 - INFO - Message sent successfully from sender device
+2025-01-28 04:37:32,649 - INFO - Test case started
+2025-01-28 04:37:41,288 - INFO - Message sent successfully from sender device
+2025-01-28 04:57:33,031 - INFO - Test case started
+2025-01-28 04:57:41,779 - INFO - Message sent successfully from sender device
+2025-01-29 03:16:28,391 - INFO - Step 2: Validating message started
+2025-01-29 03:16:28,392 - ERROR - No message found to validate. Ensure Step 1: Sending message has been executed.
+2025-01-29 03:18:06,837 - INFO - Step 1: Sending message started
+2025-01-29 03:18:13,173 - INFO - Step 2: Validating message started
+2025-01-29 03:18:13,174 - ERROR - No message found to validate. Ensure Step 1: Sending message has been executed.
+2025-01-29 03:21:27,943 - INFO - Step 1: Sending message started
+2025-01-29 03:21:34,052 - INFO - Step 2: Validating message started
+2025-01-29 03:21:34,053 - ERROR - No message found to validate. Ensure Step 1: Sending message has been executed.
+2025-01-29 03:24:06,936 - INFO - Step 1: Sending message started
+2025-01-29 03:24:12,922 - INFO - Step 2: Validating message started
+2025-01-29 03:24:12,923 - ERROR - No message found to validate. Ensure Step 1: Sending message has been executed.
+2025-01-29 03:26:04,454 - INFO - Step 1: Sending message started
+2025-01-29 03:26:12,607 - INFO - Message sent successfully from sender device
+2025-01-29 03:26:12,607 - INFO - Step 1: Sending message completed successfully
+2025-01-29 03:26:12,609 - INFO - Step 2: Validating message started
+2025-01-29 03:26:12,610 - ERROR - No message found to validate. Ensure Step 1: Sending message has been executed.
+2025-01-29 03:27:54,788 - INFO - Step 1: Sending message started
+2025-01-29 03:28:04,495 - INFO - Message sent successfully from sender device
+2025-01-29 03:28:04,496 - INFO - Step 1: Sending message completed successfully
+2025-01-29 03:28:04,500 - INFO - Step 2: Validating message started
+2025-01-29 03:33:39,646 - INFO - Step 1: Sending message started
+2025-01-29 03:33:49,460 - INFO - Message sent successfully from sender device
+2025-01-29 03:33:49,460 - INFO - Step 1: Sending message completed successfully
+2025-01-29 03:33:49,462 - INFO - Step 2: Validating message started
+2025-01-29 03:36:32,032 - INFO - Step 1: Sending message started
+2025-01-29 03:36:43,086 - INFO - Message sent successfully from sender device
+2025-01-29 03:36:43,086 - INFO - Step 1: Sending message completed successfully
+2025-01-29 03:36:43,088 - INFO - Step 2: Validating message started
+2025-01-29 03:40:54,278 - INFO - Test case started
+2025-01-29 03:41:04,590 - INFO - Message sent successfully from sender device
+2025-01-29 03:41:12,384 - INFO - Message validated successfully on receiver device
+2025-01-29 03:41:12,384 - INFO - Test case ended successfully
+2025-01-29 03:46:06,063 - INFO - Test case started
+2025-01-29 03:46:17,114 - INFO - Message sent successfully from sender device
+2025-01-29 03:46:24,926 - INFO - Message validated successfully on receiver device
+2025-01-29 03:46:24,926 - INFO - Test case ended successfully

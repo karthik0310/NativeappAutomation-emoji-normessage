@@ -1,0 +1,28 @@
+pytest~=8.3.4
+# Appium Pytest Framework
+
+## Overview
+This framework automates testing for sending and verifying messages on Android devices using Appium and Pytest.
+
+## Features
+- Supports multiple devices
+- Advanced logging and reporting
+- Parameterized test cases
+- Modular structure for easy maintenance
+
+## Setup
+1. Clone the repository.
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Start the Appium server:
+   ```
+   appium
+   ```
+4. Run the tests:
+   ```
+   pytest --html=reports/report.html --self-contained-html
+   ```
+
+## Directory Structure
