@@ -81,14 +81,15 @@ class SendMsg(BaseClass):
                 with allure.step("Receiver device not connected. Verifying message on sender device"):
                     print("Receiver device not connected. Falling back to sender device.")
 
+                    self.restart_driver1()
                     # Dynamic XPath for the unique message on the sender device
-                    self.driver.find_element(
+                    self.driver1.find_element(
                         AppiumBy.XPATH,
                         "//android.support.v7.widget.RecyclerView[@content-desc='Conversation list']/android.view.ViewGroup[1]"
                     ).click()
                     self.take_screenshot("Sender_Message_Screen")
 
-                    received_msg = self.driver.find_element(
+                    received_msg = self.driver1.find_element(
                         AppiumBy.XPATH, f"//android.widget.TextView[contains(@content-desc, '{unique_msg}')]"
                     ).get_attribute("content-desc")
                     assert unique_msg in received_msg, f"Sent and received messages do not match on sender device. Expected: {unique_msg}, Found: {received_msg}"

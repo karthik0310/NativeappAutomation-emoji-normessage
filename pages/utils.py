@@ -20,3 +20,5 @@ class Locators:
         "android.widget.Button"
     )
     RECEIVED_MSG_INDEX1_XPATH = "//android.support.v7.widget.RecyclerView[@content-desc='Conversation list']/android.view.ViewGroup[1]"
+
+    #UNIQUE_MSG_VALIDATION = "//android.widget.TextView[contains(@content-desc, '{unique_msg}')]"
