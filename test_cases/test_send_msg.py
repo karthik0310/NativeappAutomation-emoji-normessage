@@ -1,8 +1,10 @@
+import random
+
 import allure
 from pages.send_msg import SendMsg
+from pages.send_emojis import SendEmj  # ✅ Import SendEmj
 from logs.custom_logger import Logger
 from configurations.conftest import setup
-
 
 @allure.feature("Messaging Feature")
 @allure.story("Send and Verify Message")
@@ -13,23 +15,42 @@ class TestSendMsg:
         logger = Logger.get_logger()
         logger.info("Test case started")
 
-        # Unpacking drivers
         driver1, driver2 = setup
-
-        # Initializing the SendMsg object
         sendmsg_obj = SendMsg(driver1, driver2)
 
-        # Step 1: Sending the message
         with allure.step("Sending a message from sender device"):
             unique_msg = sendmsg_obj.sending_msg()
-            allure.attach(driver1.get_screenshot_as_png(), name="Sender_Message_Sent", attachment_type=allure.attachment_type.PNG)
+            allure.attach(driver1.get_screenshot_as_png(), name="Sender_Message_Sent",
+                          attachment_type=allure.attachment_type.PNG)
             logger.info("Message sent successfully from sender device")
 
-        # Step 2: Validating the message
         with allure.step("Validating the message on receiver device"):
             sendmsg_obj.verifying_msg(unique_msg)
-            allure.attach(driver2.get_screenshot_as_png(), name="Receiver_Message_Validated", attachment_type=allure.attachment_type.PNG)
+            allure.attach(driver2.get_screenshot_as_png(), name="Receiver_Message_Validated",
+                          attachment_type=allure.attachment_type.PNG)
             logger.info("Message validated successfully on receiver device")
 
-        # Test case completion
         logger.info("Test case ended successfully")
+
+    @allure.step("Sending and verifying an emoji message between devices")
+    def test_send_emoji(self, setup):
+        logger = Logger.get_logger()
+        logger.info("Emoji test case started")
+
+        driver1, driver2 = setup
+        sendemj_obj = SendEmj(driver1, driver2)
+
+        with allure.step("Sending an emoji from sender device"):
+            unique_emoji = sendemj_obj.sending_emj()  # ✅ Fix: No redundant emoji selection
+            allure.attach(driver1.get_screenshot_as_png(), name="Sender_Emoji_Sent",
+                          attachment_type=allure.attachment_type.PNG)
+            logger.info(f"Emoji '{unique_emoji}' sent successfully from sender device")
+
+        with allure.step("Validating the emoji message on receiver device"):
+            sendemj_obj.verifying_msg(unique_emoji)  # ✅ Fix: Ensure correct emoji validation
+            allure.attach(driver2.get_screenshot_as_png(), name="Receiver_Emoji_Validated",
+                          attachment_type=allure.attachment_type.PNG)
+            logger.info("Emoji message validated successfully on receiver device")
+
+        logger.info("Emoji test case ended successfully")
+

@@ -3,6 +3,7 @@ import pytest
 from pages.send_msg import SendMsg
 from logs.custom_logger import Logger
 from utilities.api_client import ApiClient
+import time
 
 @allure.feature("Messaging Feature with API Integration")
 class TestSendMsg:

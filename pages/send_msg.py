@@ -2,7 +2,7 @@ import time
 import allure
 from appium.webdriver.common.appiumby import AppiumBy
 from base.base_class import BaseClass
-from .utils import Locators
+from utils.locators import Locators
 
 
 class SendMsg(BaseClass):
@@ -41,10 +41,10 @@ class SendMsg(BaseClass):
                 raise AssertionError(f"Failed to add sender contact number: {e}")
 
         # Step 3: Compose and Send Message
-        unique_msg = f"User_{int(time.time())}"
+        unique_msg = f"Welcome_{int(time.time())}"
         with allure.step(f"Send unique message: {unique_msg}"):
             try:
-                self.clear_field(AppiumBy.ID, "com.google.android.apps.messaging:id/compose_message_text")
+                self.clear_field(AppiumBy.ID, Locators.MESSAGE_TEXT_AREA_ID)
                 self.take_screenshot("Message_Composed" )
                 self.send_keys(AppiumBy.ID, Locators.MESSAGE_TEXT_AREA_ID, unique_msg)
                 self.take_screenshot("Message_Composed")
@@ -81,15 +81,15 @@ class SendMsg(BaseClass):
                 with allure.step("Receiver device not connected. Verifying message on sender device"):
                     print("Receiver device not connected. Falling back to sender device.")
 
-                    self.restart_driver1()
+                    self.restart_driver()
                     # Dynamic XPath for the unique message on the sender device
-                    self.driver1.find_element(
+                    self.driver.find_element(
                         AppiumBy.XPATH,
                         "//android.support.v7.widget.RecyclerView[@content-desc='Conversation list']/android.view.ViewGroup[1]"
                     ).click()
                     self.take_screenshot("Sender_Message_Screen")
 
-                    received_msg = self.driver1.find_element(
+                    received_msg = self.driver.find_element(
                         AppiumBy.XPATH, f"//android.widget.TextView[contains(@content-desc, '{unique_msg}')]"
                     ).get_attribute("content-desc")
                     assert unique_msg in received_msg, f"Sent and received messages do not match on sender device. Expected: {unique_msg}, Found: {received_msg}"

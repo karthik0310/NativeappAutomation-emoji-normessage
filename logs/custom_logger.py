@@ -1,23 +1,29 @@
 import logging
 import os
+import sys
 
 class Logger:
     @staticmethod
     def get_logger():
         """
-        Configures and returns a logger instance.
+        Configures and returns a logger instance with UTF-8 encoding.
+        The log directory is dynamically generated based on the current working directory or an environment variable.
         """
         logger = logging.getLogger("CustomLogger")
         logger.setLevel(logging.INFO)
 
         # Prevent duplicate log handlers
         if not logger.handlers:
-            # Ensure log directory exists
-            log_dir = r"C:\Users\karthik\PycharmProjects\PythonProjectMyappiumseconddevice\logs"
-            os.makedirs(log_dir, exist_ok=True)
+            # Determine the log directory dynamically
+            base_dir = os.getenv("LOG_DIR", os.getcwd())  # Use LOG_DIR env variable if set, otherwise use current dir
+            log_dir = os.path.join(base_dir, "logs")
+            os.makedirs(log_dir, exist_ok=True)  # Ensure log directory exists
 
-            # File handler (with a valid file path)
-            file_handler = logging.FileHandler(os.path.join(log_dir, "seconddevice.log"))
+            # Log file path
+            log_file_path = os.path.join(log_dir, "seconddevice.log")
+
+            # File handler (UTF-8 encoding)
+            file_handler = logging.FileHandler(log_file_path, encoding="utf-8")
             file_handler.setLevel(logging.INFO)
 
             # Formatter for logs
@@ -25,7 +31,7 @@ class Logger:
             file_handler.setFormatter(formatter)
 
             # Stream handler (console output)
-            console_handler = logging.StreamHandler()
+            console_handler = logging.StreamHandler(sys.stdout)
             console_handler.setFormatter(formatter)
 
             # Add handlers to logger

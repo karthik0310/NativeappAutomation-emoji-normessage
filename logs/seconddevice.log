@@ -100,3 +100,411 @@
 2025-01-30 04:01:01,675 - INFO - Message sent successfully from sender device
 2025-01-30 04:01:09,249 - INFO - Message validated successfully on receiver device
 2025-01-30 04:01:09,249 - INFO - Test case ended successfully
+2025-01-30 04:09:51,851 - INFO - Test case started
+2025-01-30 04:10:02,081 - INFO - Message sent successfully from sender device
+2025-01-30 04:10:09,774 - INFO - Message validated successfully on receiver device
+2025-01-30 04:10:09,775 - INFO - Test case ended successfully
+2025-01-30 04:17:30,825 - INFO - Test case started
+2025-01-30 04:17:41,894 - INFO - Message sent successfully from sender device
+2025-01-30 04:17:49,634 - INFO - Message validated successfully on receiver device
+2025-01-30 04:17:49,634 - INFO - Test case ended successfully
+2025-02-07 04:22:45,348 - INFO - Test case started
+2025-02-07 04:23:00,719 - INFO - Message sent successfully from sender device
+2025-02-09 23:54:17,687 - INFO - Test case started
+2025-02-09 23:54:32,867 - INFO - Message sent successfully from sender device
+2025-02-09 23:54:42,127 - INFO - Message validated successfully on receiver device
+2025-02-09 23:54:42,128 - INFO - Test case ended successfully
+2025-02-10 13:48:07,914 - INFO - Message sent successfully using UI.
+2025-02-10 13:54:40,095 - INFO - Message sent successfully using UI.
+2025-02-10 14:29:29,370 - INFO - Message sent successfully using UI.
+2025-02-10 14:34:35,809 - INFO - Message sent successfully using UI.
+2025-02-10 14:34:35,962 - INFO - Message sent successfully using API.
+2025-02-10 14:38:55,775 - INFO - Message sent successfully using UI.
+2025-02-10 14:38:55,881 - INFO - Message sent successfully using API.
+2025-02-10 15:03:59,133 - INFO - Message sent via UI: User_1739180034
+2025-02-10 16:05:50,352 - INFO - Message sent via UI: User_1739183746
+2025-02-13 16:04:18,540 - INFO - Message sent via UI: User_1739442854
+2025-02-13 16:11:29,942 - INFO - Message sent via UI: User_1739443285
+2025-02-13 16:47:14,295 - INFO - Test case started
+2025-02-13 16:47:25,485 - INFO - Message sent successfully from sender device
+2025-02-13 16:47:35,486 - INFO - Message validated successfully on receiver device
+2025-02-13 16:47:35,486 - INFO - Test case ended successfully
+2025-02-13 16:48:42,662 - INFO - Message sent via UI: User_1739445518
+2025-02-13 16:55:55,795 - INFO - Test case started
+2025-02-13 16:56:06,999 - INFO - Message sent successfully from sender device
+2025-02-13 16:56:14,276 - INFO - Message validated successfully on receiver device
+2025-02-13 16:56:14,276 - INFO - Test case ended successfully
+2025-02-17 12:06:18,355 - INFO - Test case started
+2025-02-17 12:06:28,939 - INFO - Message sent successfully from sender device
+2025-02-17 12:07:51,083 - INFO - Test case started
+2025-02-17 12:08:02,663 - INFO - Message sent successfully from sender device
+2025-02-17 12:08:10,220 - INFO - Message validated successfully on receiver device
+2025-02-17 12:08:10,220 - INFO - Test case ended successfully
+2025-02-17 12:09:07,748 - INFO - Message sent via UI: User_1739774343
+2025-02-17 12:12:02,291 - INFO - Message sent via UI: User_1739774518
+2025-02-17 12:21:05,927 - INFO - Message sent via UI: User_1739775060
+2025-02-17 12:25:00,194 - INFO - Message sent via UI: User_1739775297
+2025-02-17 12:31:11,840 - INFO - Message sent via UI: User_1739775667
+2025-02-17 12:47:35,433 - INFO - Message sent via UI: User_1739776651
+2025-02-17 12:51:15,218 - INFO - Message sent via UI: User_1739776870
+2025-02-17 14:12:35,398 - INFO - Test case started
+2025-02-17 14:12:35,398 - INFO - Attempting to send a message from sender device
+2025-02-17 14:12:46,730 - INFO - Message sent successfully from sender device
+2025-02-17 14:12:46,731 - INFO - Attempting to validate the received message: User_1739781762
+2025-02-17 14:12:53,852 - INFO - Message validated successfully on receiver device
+2025-02-17 14:12:53,853 - INFO - Test case ended successfully
+2025-02-21 16:57:35,388 - INFO - Test case started
+2025-02-21 16:59:58,472 - INFO - Test case started
+2025-02-21 17:04:11,578 - INFO - Test case started
+2025-02-21 17:07:05,978 - INFO - Test case started
+2025-02-21 17:07:20,454 - INFO - Message sent successfully from sender device
+2025-02-21 17:07:29,928 - INFO - Message validated successfully on receiver device
+2025-02-21 17:07:29,929 - INFO - Test case ended successfully
+2025-02-21 17:08:43,585 - INFO - Test case started
+2025-02-21 17:08:56,661 - INFO - Message sent successfully from sender device
+2025-02-21 17:09:05,945 - INFO - Message validated successfully on receiver device
+2025-02-21 17:09:05,946 - INFO - Test case ended successfully
+2025-02-21 17:10:19,357 - INFO - Test case started
+2025-02-21 17:10:32,411 - INFO - Message sent successfully from sender device
+2025-02-21 17:10:41,150 - INFO - Message validated successfully on receiver device
+2025-02-21 17:10:41,150 - INFO - Test case ended successfully
+2025-02-24 11:39:40,905 - INFO - Test case started
+2025-02-24 11:39:52,996 - INFO - Message sent successfully from sender device
+2025-02-24 11:40:01,635 - INFO - Message validated successfully on receiver device
+2025-02-24 11:40:01,636 - INFO - Test case ended successfully
+2025-02-24 11:44:33,810 - INFO - Test case started
+2025-02-24 11:44:44,686 - INFO - Message sent successfully from sender device
+2025-02-24 11:44:51,752 - INFO - Message validated successfully on receiver device
+2025-02-24 11:44:51,752 - INFO - Test case ended successfully
+2025-02-24 11:49:30,767 - INFO - Test case started
+2025-02-24 11:49:41,962 - INFO - Message sent successfully from sender device
+2025-02-24 11:49:49,227 - INFO - Message validated successfully on receiver device
+2025-02-24 11:49:49,228 - INFO - Test case ended successfully
+2025-02-24 11:54:29,927 - INFO - Test case started
+2025-02-24 11:54:40,974 - INFO - Message sent successfully from sender device
+2025-02-24 11:54:48,355 - INFO - Message validated successfully on receiver device
+2025-02-24 11:54:48,355 - INFO - Test case ended successfully
+2025-02-24 11:58:54,619 - INFO - Test case started
+2025-02-24 11:59:42,946 - INFO - Test case started
+2025-02-24 11:59:53,894 - INFO - Message sent successfully from sender device
+2025-02-24 12:00:01,671 - INFO - Message validated successfully on receiver device
+2025-02-24 12:00:01,671 - INFO - Test case ended successfully
+2025-02-24 12:06:52,395 - INFO - Test case started
+2025-02-24 12:07:03,571 - INFO - Message sent successfully from sender device
+2025-02-24 12:07:11,421 - INFO - Message validated successfully on receiver device
+2025-02-24 12:07:11,421 - INFO - Test case ended successfully
+2025-02-24 12:16:37,807 - INFO - Test case started
+2025-02-24 12:16:49,047 - INFO - Message sent successfully from sender device
+2025-02-24 12:16:56,185 - INFO - Message validated successfully on receiver device
+2025-02-24 12:16:56,185 - INFO - Test case ended successfully
+2025-02-24 12:23:02,715 - INFO - Test case started
+2025-02-24 12:23:13,192 - INFO - Message sent successfully from sender device
+2025-02-24 12:23:23,407 - INFO - Message validated successfully on receiver device
+2025-02-24 12:23:23,409 - INFO - Test case ended successfully
+2025-02-24 13:45:40,378 - INFO - Test case started
+2025-02-24 14:05:00,846 - INFO - Test case started
+2025-02-24 14:26:14,521 - INFO - Test case started
+2025-02-24 14:29:05,036 - INFO - Test case started
+2025-02-24 15:08:56,885 - INFO - Test case started
+2025-02-24 15:10:48,963 - INFO - Test case started
+2025-02-24 15:19:28,955 - INFO - Test case started
+2025-02-24 15:29:18,213 - INFO - Test case started
+2025-02-24 15:41:04,658 - INFO - Test case started
+2025-02-24 15:43:44,775 - INFO - Test case started
+2025-02-24 15:44:56,416 - INFO - Test case started
+2025-02-24 15:48:29,460 - INFO - Test case started
+2025-02-24 15:53:39,861 - INFO - Test case started
+2025-02-24 15:53:51,298 - INFO - Message sent successfully from sender device
+2025-02-24 15:54:00,845 - INFO - Message validated successfully on receiver device
+2025-02-24 15:54:00,845 - INFO - Test case ended successfully
+2025-02-24 15:56:08,349 - INFO - Test case started
+2025-02-24 16:24:50,931 - INFO - Test case started
+2025-02-24 16:28:32,599 - INFO - Test case started
+2025-02-24 16:29:14,815 - INFO - Test case started
+2025-02-24 16:29:25,478 - INFO - Message sent successfully from sender device
+2025-02-24 16:29:32,922 - INFO - Message validated successfully on receiver device
+2025-02-24 16:29:32,923 - INFO - Test case ended successfully
+2025-02-24 16:35:11,839 - INFO - Test case started
+2025-02-24 16:35:23,239 - INFO - Message sent successfully from sender device
+2025-02-24 16:35:32,626 - INFO - Message validated successfully on receiver device
+2025-02-24 16:35:32,627 - INFO - Test case ended successfully
+2025-02-24 16:43:33,587 - INFO - Test case started
+2025-02-24 16:44:37,614 - INFO - Test case started
+2025-02-24 16:44:49,402 - INFO - Message sent successfully from sender device
+2025-02-24 16:44:56,870 - INFO - Message validated successfully on receiver device
+2025-02-24 16:44:56,870 - INFO - Test case ended successfully
+2025-02-25 10:50:16,955 - INFO - Test case started
+2025-02-25 10:50:27,934 - INFO - Message sent successfully from sender device
+2025-02-25 10:50:37,733 - INFO - Message validated successfully on receiver device
+2025-02-25 10:50:37,734 - INFO - Test case ended successfully
+2025-02-25 11:41:42,159 - INFO - Test case started
+2025-02-25 11:43:13,769 - INFO - Test case started
+2025-02-25 11:46:57,874 - INFO - Test case started
+2025-02-25 11:47:09,572 - INFO - Message sent successfully from sender device
+2025-02-25 11:47:16,609 - INFO - Message validated successfully on receiver device
+2025-02-25 11:47:16,609 - INFO - Test case ended successfully
+2025-02-25 15:58:36,071 - INFO - Test case started
+2025-02-25 15:59:38,499 - INFO - Test case started
+2025-02-25 15:59:49,499 - INFO - Message sent successfully from sender device
+2025-02-25 15:59:59,336 - INFO - Message validated successfully on receiver device
+2025-02-25 15:59:59,337 - INFO - Test case ended successfully
+2025-02-25 16:09:55,690 - INFO - Test case started
+2025-02-25 16:10:06,944 - INFO - Message sent successfully from sender device
+2025-02-25 16:10:14,405 - INFO - Message validated successfully on receiver device
+2025-02-25 16:10:14,406 - INFO - Test case ended successfully
+2025-02-25 16:25:29,526 - INFO - Test case started
+2025-02-25 16:25:40,328 - INFO - Message sent successfully from sender device
+2025-02-25 16:25:47,760 - INFO - Message validated successfully on receiver device
+2025-02-25 16:25:47,760 - INFO - Test case ended successfully
+2025-02-25 16:27:29,504 - INFO - Test case started
+2025-02-25 16:27:40,187 - INFO - Message sent successfully from sender device
+2025-02-25 16:27:49,723 - INFO - Message validated successfully on receiver device
+2025-02-25 16:27:49,724 - INFO - Test case ended successfully
+2025-02-25 16:29:29,492 - INFO - Test case started
+2025-02-25 16:29:41,084 - INFO - Message sent successfully from sender device
+2025-02-25 16:29:48,404 - INFO - Message validated successfully on receiver device
+2025-02-25 16:29:48,404 - INFO - Test case ended successfully
+2025-02-25 16:31:29,398 - INFO - Test case started
+2025-02-25 16:31:39,725 - INFO - Message sent successfully from sender device
+2025-02-25 16:31:46,845 - INFO - Message validated successfully on receiver device
+2025-02-25 16:31:46,845 - INFO - Test case ended successfully
+2025-02-25 16:33:29,522 - INFO - Test case started
+2025-02-25 16:33:40,450 - INFO - Message sent successfully from sender device
+2025-02-25 16:33:47,698 - INFO - Message validated successfully on receiver device
+2025-02-25 16:33:47,699 - INFO - Test case ended successfully
+2025-02-25 16:35:29,559 - INFO - Test case started
+2025-02-25 16:35:40,484 - INFO - Message sent successfully from sender device
+2025-02-25 16:35:47,788 - INFO - Message validated successfully on receiver device
+2025-02-25 16:35:47,788 - INFO - Test case ended successfully
+2025-02-25 16:37:30,506 - INFO - Test case started
+2025-02-25 16:37:41,985 - INFO - Message sent successfully from sender device
+2025-02-25 16:37:49,336 - INFO - Message validated successfully on receiver device
+2025-02-25 16:37:49,336 - INFO - Test case ended successfully
+2025-02-26 12:23:21,168 - INFO - Test case started
+2025-02-26 12:23:32,880 - INFO - Message sent successfully from sender device
+2025-02-26 12:23:42,450 - INFO - Message validated successfully on receiver device
+2025-02-26 12:23:42,451 - INFO - Test case ended successfully
+2025-02-26 13:27:26,064 - INFO - Test case started
+2025-02-26 13:27:36,309 - INFO - Message sent successfully from sender device
+2025-02-26 13:27:43,804 - INFO - Message validated successfully on receiver device
+2025-02-26 13:27:43,805 - INFO - Test case ended successfully
+2025-02-26 13:27:43,814 - INFO - Test case started for sending numeric emojis
+2025-02-26 13:27:47,642 - INFO - Numeric and emojis messages sent successfully
+2025-02-26 13:30:19,387 - INFO - Test case started
+2025-02-26 13:30:30,835 - INFO - Message sent successfully from sender device
+2025-02-26 13:30:37,980 - INFO - Message validated successfully on receiver device
+2025-02-26 13:30:37,980 - INFO - Test case ended successfully
+2025-02-26 13:30:37,984 - INFO - Test case started for sending numeric emojis
+2025-02-26 13:30:42,295 - INFO - Numeric and emojis messages sent successfully
+2025-02-26 13:49:05,783 - INFO - Test case started
+2025-02-26 13:49:17,292 - INFO - Message sent successfully from sender device
+2025-02-26 13:49:24,264 - INFO - Message validated successfully on receiver device
+2025-02-26 13:49:24,265 - INFO - Test case ended successfully
+2025-02-26 13:49:24,269 - INFO - Test case started for sending numeric emojis
+2025-02-26 13:49:28,612 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 15:45:51,036 - INFO - Test case started
+2025-02-27 15:46:02,781 - INFO - Message sent successfully from sender device
+2025-02-27 15:47:25,476 - INFO - Test case started
+2025-02-27 15:47:36,864 - INFO - Message sent successfully from sender device
+2025-02-27 15:47:41,794 - INFO - Test case started for sending numeric emojis
+2025-02-27 15:47:45,534 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 15:50:03,556 - INFO - Test case started
+2025-02-27 15:50:14,439 - INFO - Message sent successfully from sender device
+2025-02-27 16:07:03,617 - INFO - Test case started
+2025-02-27 16:07:14,095 - INFO - Message sent successfully from sender device
+2025-02-27 16:07:18,987 - INFO - Test case started for sending numeric emojis
+2025-02-27 16:07:23,184 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 16:08:29,090 - INFO - Test case started
+2025-02-27 16:08:39,879 - INFO - Message sent successfully from sender device
+2025-02-27 16:08:44,970 - INFO - Test case started for sending numeric emojis
+2025-02-27 16:08:49,227 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 16:25:31,050 - INFO - Test case started
+2025-02-27 16:26:11,801 - INFO - Test case started for sending numeric emojis
+2025-02-27 16:26:45,515 - ERROR - Failed to send numeric and emoji message: Failed to compose and send message: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\karthik.DC\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2025-02-27 16:35:23,483 - INFO - Test case started
+2025-02-27 16:35:35,741 - INFO - Message sent successfully from sender device
+2025-02-27 16:35:40,486 - INFO - Test case started for sending numeric emojis
+2025-02-27 16:35:45,485 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 16:47:38,418 - INFO - Test case started
+2025-02-27 16:47:50,641 - INFO - Message sent successfully from sender device
+2025-02-27 16:47:55,483 - INFO - Test case started for sending numeric emojis
+2025-02-27 16:47:58,919 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 16:57:38,942 - INFO - Test case started
+2025-02-27 16:57:50,404 - INFO - Message sent successfully from sender device
+2025-02-27 16:57:54,286 - INFO - Test case started for sending numeric emojis
+2025-02-27 16:57:58,849 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 17:00:22,743 - INFO - Test case started
+2025-02-27 17:00:36,107 - INFO - Message sent successfully from sender device
+2025-02-27 17:00:40,738 - INFO - Test case started for sending numeric emojis
+2025-02-27 17:00:44,355 - INFO - Numeric and emojis messages sent successfully
+2025-02-27 17:02:39,921 - INFO - Test case started
+2025-02-27 17:02:53,929 - INFO - Message sent successfully from sender device
+2025-02-27 17:02:58,161 - INFO - Test case started for sending numeric emojis
+2025-02-27 17:03:02,896 - INFO - Numeric and emojis messages sent successfully
+2025-02-28 13:11:30,509 - INFO - Test case started
+2025-02-28 13:12:28,363 - INFO - Test case started
+2025-02-28 13:14:57,053 - INFO - Test case started
+2025-02-28 13:17:49,775 - INFO - Test case started
+2025-02-28 13:19:55,025 - INFO - Test case started
+2025-02-28 13:33:08,891 - INFO - Test case started
+2025-02-28 13:38:23,441 - INFO - Test case started
+2025-02-28 13:41:00,576 - INFO - Test case started
+2025-02-28 13:41:14,151 - INFO - Message sent successfully from sender device
+2025-02-28 13:41:21,768 - INFO - Message validated successfully on receiver device
+2025-02-28 14:38:06,293 - INFO - Test case started for sending numeric emojis
+2025-02-28 14:38:08,918 - ERROR - Failed to send numeric and emoji message: 'TestSendEmojis' object has no attribute 'numeric_emojis'
+2025-02-28 14:43:19,290 - INFO - Test case started for sending numeric emojis
+2025-02-28 14:43:52,036 - ERROR - Failed to send numeric and emoji message: Failed to compose and send message: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\karthik.DC\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib\commands\find.js:75:11)
+2025-02-28 15:29:33,320 - INFO - Test case started
+2025-02-28 15:38:25,687 - INFO - Test case started
+2025-02-28 15:38:45,557 - INFO - Message sent successfully from sender device
+2025-02-28 15:38:52,931 - INFO - Message validated successfully on receiver device
+2025-02-28 15:39:33,949 - INFO - Test case started
+2025-02-28 15:39:53,972 - INFO - Message sent successfully from sender device
+2025-02-28 15:40:01,336 - INFO - Message validated successfully on receiver device
+2025-02-28 15:46:00,770 - INFO - Test case started
+2025-02-28 15:46:21,140 - INFO - Message sent successfully from sender device
+2025-02-28 15:46:28,098 - INFO - Message validated successfully on receiver device
+2025-03-07 12:30:25,296 - INFO - Test case started
+2025-03-07 12:34:25,335 - INFO - Test case started
+2025-03-07 12:34:38,592 - INFO - Message sent successfully from sender device
+2025-03-07 12:34:47,077 - INFO - Message validated successfully on receiver device
+2025-03-07 12:34:47,079 - INFO - Test case ended successfully
+2025-03-07 14:10:22,098 - INFO - Test case started
+2025-03-07 14:10:35,067 - INFO - Message sent successfully from sender device
+2025-03-07 14:10:43,587 - INFO - Message validated successfully on receiver device
+2025-03-07 14:10:43,588 - INFO - Test case ended successfully
+2025-03-07 15:32:27,477 - INFO - Test case started
+2025-03-07 15:32:39,967 - INFO - Message sent successfully from sender device
+2025-03-07 15:32:48,735 - INFO - Message validated successfully on receiver device
+2025-03-07 15:32:48,736 - INFO - Test case ended successfully
+2025-03-10 14:27:27,876 - INFO - Test case started
+2025-03-10 14:28:46,239 - INFO - Test case started
+2025-03-10 14:36:40,112 - INFO - Test case started
+2025-03-10 14:45:56,633 - INFO - Test case started
+2025-03-10 14:51:57,941 - INFO - Test case started
+2025-03-10 14:54:56,026 - INFO - Test case started
+2025-03-10 14:58:47,709 - INFO - Test case started
+2025-03-10 14:59:00,179 - INFO - Message sent successfully from sender device
+2025-03-10 14:59:08,398 - INFO - Message validated successfully on receiver device
+2025-03-10 14:59:08,399 - INFO - Test case ended successfully
+2025-03-10 15:06:08,758 - INFO - Test case started
+2025-03-10 15:06:21,329 - INFO - Message sent successfully from sender device
+2025-03-10 15:06:29,442 - INFO - Message validated successfully on receiver device
+2025-03-10 15:06:29,442 - INFO - Test case ended successfully
+2025-03-10 15:23:44,354 - INFO - Test case started
+2025-03-10 15:23:56,938 - INFO - Message sent successfully from sender device
+2025-03-10 15:24:05,265 - INFO - Message validated successfully on receiver device
+2025-03-10 15:24:05,265 - INFO - Test case ended successfully
+2025-03-10 15:24:26,271 - INFO - Emoji test case started
+2025-03-10 16:06:29,689 - INFO - Test case started
+2025-03-10 16:06:42,352 - INFO - Message sent successfully from sender device
+2025-03-10 16:06:50,443 - INFO - Message validated successfully on receiver device
+2025-03-10 16:06:50,445 - INFO - Test case ended successfully
+2025-03-10 16:07:11,200 - INFO - Emoji test case started
+2025-03-10 16:17:41,001 - INFO - Test case started
+2025-03-10 16:17:52,529 - INFO - Message sent successfully from sender device
+2025-03-10 16:18:00,600 - INFO - Message validated successfully on receiver device
+2025-03-10 16:18:00,600 - INFO - Test case ended successfully
+2025-03-10 16:18:21,274 - INFO - Emoji test case started
+2025-03-10 16:18:33,378 - INFO - Emoji sent successfully from sender device
+2025-03-10 16:20:49,241 - INFO - Test case started
+2025-03-10 16:21:01,939 - INFO - Message sent successfully from sender device
+2025-03-10 16:21:10,225 - INFO - Message validated successfully on receiver device
+2025-03-10 16:21:10,225 - INFO - Test case ended successfully
+2025-03-10 16:21:31,074 - INFO - Emoji test case started
+2025-03-10 16:21:42,695 - INFO - Emoji sent successfully from sender device
+2025-03-10 16:31:05,649 - INFO - Test case started
+2025-03-10 16:31:16,699 - INFO - Message sent successfully from sender device
+2025-03-10 16:31:25,177 - INFO - Message validated successfully on receiver device
+2025-03-10 16:31:25,177 - INFO - Test case ended successfully
+2025-03-10 16:31:46,125 - INFO - Emoji test case started
+2025-03-10 16:31:58,014 - INFO - Emoji sent successfully from sender device
+2025-03-10 16:37:24,432 - INFO - Emoji test case started
+2025-03-10 16:37:36,826 - INFO - Emoji sent successfully from sender device
+2025-03-11 12:12:22,206 - INFO - Emoji test case started
+2025-03-11 12:19:13,990 - INFO - Emoji test case started
+2025-03-11 12:40:15,805 - INFO - Emoji test case started
+2025-03-11 12:42:08,881 - INFO - Emoji test case started
+2025-03-11 12:46:56,436 - INFO - Emoji test case started
+2025-03-11 12:57:44,819 - INFO - Emoji test case started
+2025-03-11 12:59:44,091 - INFO - Emoji test case started
+2025-03-11 13:16:10,682 - INFO - Emoji test case started
+2025-03-11 13:19:57,030 - INFO - Emoji test case started
+2025-03-11 13:20:08,413 - INFO - Emoji '😍' sent successfully from sender device
+2025-03-11 13:20:23,995 - INFO - Emoji message validated successfully on receiver device
+2025-03-11 13:20:23,996 - INFO - Emoji test case ended successfully
+2025-03-11 13:22:28,849 - INFO - Test case started
+2025-03-11 13:22:40,047 - INFO - Message sent successfully from sender device
+2025-03-11 13:22:49,177 - INFO - Message validated successfully on receiver device
+2025-03-11 13:22:49,177 - INFO - Test case ended successfully
+2025-03-11 13:23:10,434 - INFO - Emoji test case started
+2025-03-11 13:23:21,392 - INFO - Emoji '🥺' sent successfully from sender device
+2025-03-11 13:24:57,050 - INFO - Emoji test case started
+2025-03-11 13:25:07,707 - INFO - Emoji '🥺' sent successfully from sender device
+2025-03-11 13:26:14,155 - INFO - Emoji test case started
+2025-03-11 13:26:25,630 - INFO - Emoji '😀' sent successfully from sender device
+2025-03-11 13:33:19,395 - INFO - Emoji test case started
+2025-03-11 13:33:30,580 - INFO - Emoji '🤔' sent successfully from sender device
+2025-03-11 14:23:22,783 - INFO - Emoji test case started
+2025-03-11 14:23:34,401 - INFO - Emoji '😍' sent successfully from sender device
+2025-03-11 14:33:07,029 - INFO - Emoji test case started
+2025-03-11 14:33:17,685 - INFO - Emoji '😅' sent successfully from sender device
+2025-03-11 14:41:08,391 - INFO - Emoji test case started
+2025-03-11 14:41:19,937 - INFO - Emoji '😎' sent successfully from sender device
+2025-03-11 14:43:01,995 - INFO - Emoji test case started
+2025-03-11 14:43:12,892 - INFO - Emoji '😅' sent successfully from sender device
+2025-03-11 14:43:22,450 - INFO - Emoji message validated successfully on receiver device
+2025-03-11 14:43:22,451 - INFO - Emoji test case ended successfully
+2025-03-11 14:47:03,725 - INFO - Test case started
+2025-03-11 14:47:15,739 - INFO - Message sent successfully from sender device
+2025-03-11 14:47:24,605 - INFO - Message validated successfully on receiver device
+2025-03-11 14:47:24,605 - INFO - Test case ended successfully
+2025-03-11 14:47:46,520 - INFO - Emoji test case started
+2025-03-11 14:47:58,413 - INFO - Emoji '🤗' sent successfully from sender device
+2025-03-11 14:54:03,312 - INFO - Emoji test case started
+2025-03-11 14:54:13,782 - INFO - Emoji '🥺' sent successfully from sender device
+2025-03-11 14:56:31,827 - INFO - Emoji test case started
+2025-03-11 14:56:43,358 - INFO - Emoji '🥺' sent successfully from sender device
+2025-03-11 15:03:35,461 - INFO - Emoji test case started
+2025-03-11 15:03:46,139 - INFO - Emoji '😜' sent successfully from sender device
+2025-03-11 15:12:14,089 - INFO - Emoji test case started
+2025-03-11 15:12:26,570 - INFO - Emoji '😂' sent successfully from sender device
+2025-03-11 15:14:20,730 - INFO - Emoji test case started
+2025-03-11 15:14:32,966 - INFO - Emoji '🥺' sent successfully from sender device
+2025-03-11 15:18:47,449 - INFO - Emoji test case started
+2025-03-11 15:18:57,989 - INFO - Emoji '🤗' sent successfully from sender device
+2025-03-11 15:19:18,454 - INFO - Emoji message validated successfully on receiver device
+2025-03-11 15:19:18,455 - INFO - Emoji test case ended successfully
+2025-03-11 15:19:53,815 - INFO - Emoji test case started
+2025-03-11 15:20:05,338 - INFO - Emoji '😅' sent successfully from sender device
+2025-03-11 15:24:37,783 - INFO - Emoji test case started
+2025-03-11 15:24:49,469 - INFO - Emoji '😎' sent successfully from sender device
+2025-03-11 15:27:57,372 - INFO - Emoji test case started
+2025-03-11 15:28:09,099 - INFO - Emoji '😂' sent successfully from sender device
+2025-03-11 15:52:37,296 - INFO - Emoji test case started
+2025-03-11 15:52:48,613 - INFO - Emoji '😎' sent successfully from sender device
+2025-03-11 15:59:14,279 - INFO - Emoji test case started
+2025-03-11 15:59:25,709 - INFO - Emoji '😍' sent successfully from sender device
+2025-03-11 16:02:37,682 - INFO - Emoji test case started
+2025-03-11 16:02:49,111 - INFO - Emoji '🤔' sent successfully from sender device
+2025-03-11 16:03:12,010 - INFO - Emoji message validated successfully on receiver device
+2025-03-11 16:03:12,010 - INFO - Emoji test case ended successfully
+2025-03-11 16:03:54,189 - INFO - Emoji test case started
+2025-03-11 16:04:06,556 - INFO - Emoji '🤗' sent successfully from sender device
+2025-03-11 16:04:29,170 - INFO - Emoji message validated successfully on receiver device
+2025-03-11 16:04:29,170 - INFO - Emoji test case ended successfully
+2025-03-11 16:07:04,760 - INFO - Test case started
+2025-03-11 16:07:16,916 - INFO - Message sent successfully from sender device
+2025-03-11 16:07:26,204 - INFO - Message validated successfully on receiver device
+2025-03-11 16:07:26,205 - INFO - Test case ended successfully
+2025-03-11 16:07:48,175 - INFO - Emoji test case started
+2025-03-11 16:07:59,448 - INFO - Emoji '😎' sent successfully from sender device
+2025-03-11 16:08:23,029 - INFO - Emoji message validated successfully on receiver device
+2025-03-11 16:08:23,030 - INFO - Emoji test case ended successfully
