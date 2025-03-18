@@ -2,6 +2,7 @@ import logging
 import os
 import sys
 
+
 class Logger:
     @staticmethod
     def get_logger():
@@ -10,10 +11,11 @@ class Logger:
         The log directory is dynamically generated based on the current working directory or an environment variable.
         """
         logger = logging.getLogger("CustomLogger")
-        logger.setLevel(logging.INFO)
 
         # Prevent duplicate log handlers
-        if not logger.handlers:
+        if not logger.hasHandlers():
+            logger.setLevel(logging.INFO)
+
             # Determine the log directory dynamically
             base_dir = os.getenv("LOG_DIR", os.getcwd())  # Use LOG_DIR env variable if set, otherwise use current dir
             log_dir = os.path.join(base_dir, "logs")

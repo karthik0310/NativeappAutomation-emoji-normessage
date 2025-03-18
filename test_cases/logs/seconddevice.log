@@ -20,3 +20,202 @@
 2025-03-11 16:27:06,744 - INFO - Emoji '🥺' sent successfully from sender device
 2025-03-11 16:27:29,962 - INFO - Emoji message validated successfully on receiver device
 2025-03-11 16:27:29,962 - INFO - Emoji test case ended successfully
+2025-03-12 09:17:37,183 - INFO - Test case started
+2025-03-12 09:17:37,187 - INFO - drivers are unpacked successfully
+2025-03-12 09:17:37,188 - INFO - Sending a unique message form sender side
+2025-03-12 09:17:49,691 - INFO - Message sent successfully from sender device
+2025-03-12 09:17:49,692 - INFO - Received the unique message form the sender
+2025-03-12 09:17:58,384 - INFO - Unique Message validated successfully on receiver device
+2025-03-12 09:17:58,385 - INFO - Test case ended successfully
+2025-03-12 09:18:20,782 - INFO - Emoji test case started
+2025-03-12 09:18:20,783 - INFO - Drivers are unpacking for the second time for sending emoji workflow
+2025-03-12 09:18:32,593 - INFO - Emoji '🤩' sent successfully from sender device
+2025-03-12 09:18:32,594 - INFO - Unique emoji are received form the sender 
+2025-03-12 09:18:55,036 - INFO - Emoji message validated successfully on receiver device
+2025-03-12 09:18:55,036 - INFO - Emoji test case ended successfully
+2025-03-12 11:36:43,768 - INFO - Text message test case started
+2025-03-12 11:36:43,770 - INFO - Drivers initialized for message workflow
+2025-03-12 11:36:56,400 - INFO - Message 'Welcome_1741759603' sent successfully from sender device
+2025-03-12 11:37:15,631 - INFO - Text message validated successfully on receiver device
+2025-03-12 11:37:15,631 - INFO - Text message test case ended successfully
+2025-03-12 11:37:36,451 - INFO - Emoji test case started
+2025-03-12 11:37:36,452 - INFO - Drivers initialized for emoji workflow
+2025-03-12 11:37:48,632 - INFO - Emoji '🤩' sent successfully from sender device
+2025-03-12 11:38:07,869 - INFO - Emoji message validated successfully on receiver device
+2025-03-12 11:38:07,869 - INFO - Emoji test case ended successfully
+2025-03-12 11:55:28,157 - INFO - Text message test case started
+2025-03-12 11:55:28,158 - INFO - Drivers initialized for message workflow
+2025-03-12 11:55:39,932 - INFO - Message 'Welcome_1741760728' sent successfully from sender device
+2025-03-12 11:55:58,436 - INFO - Text message validated successfully on receiver device
+2025-03-12 11:55:58,436 - INFO - Text message test case ended successfully
+2025-03-12 11:56:19,347 - INFO - Emoji test case started
+2025-03-12 11:56:19,348 - INFO - Drivers initialized for emoji workflow
+2025-03-12 11:56:30,845 - INFO - Emoji '🥺' sent successfully from sender device
+2025-03-12 11:56:49,310 - INFO - Emoji message validated successfully on receiver device
+2025-03-12 11:56:49,311 - INFO - Emoji test case ended successfully
+2025-03-12 14:45:49,111 - INFO - Text message test case started
+2025-03-12 14:45:49,112 - INFO - Drivers initialized for message workflow
+2025-03-12 14:46:04,712 - INFO - Message 'Welcome_1741770949' sent successfully from sender device
+2025-03-12 14:46:24,045 - INFO - Text message validated successfully on receiver device
+2025-03-12 14:46:24,045 - INFO - Text message test case ended successfully
+2025-03-12 14:46:45,719 - INFO - Emoji test case started
+2025-03-12 14:46:45,720 - INFO - Drivers initialized for emoji workflow
+2025-03-12 14:46:59,021 - INFO - Emoji '😀' sent successfully from sender device
+2025-03-12 14:47:18,159 - INFO - Emoji message validated successfully on receiver device
+2025-03-12 14:47:18,160 - INFO - Emoji test case ended successfully
+2025-03-12 14:47:38,712 - INFO - Image message test case started
+2025-03-12 14:47:38,713 - INFO - Drivers initialized for Image message workflow
+2025-03-12 14:49:17,993 - INFO - Text message test case started
+2025-03-12 14:49:17,993 - INFO - Drivers initialized for message workflow
+2025-03-12 14:49:31,409 - INFO - Message 'Welcome_1741771157' sent successfully from sender device
+2025-03-12 14:49:50,940 - INFO - Text message validated successfully on receiver device
+2025-03-12 14:49:50,941 - INFO - Text message test case ended successfully
+2025-03-12 14:50:11,606 - INFO - Emoji test case started
+2025-03-12 14:50:11,607 - INFO - Drivers initialized for emoji workflow
+2025-03-12 14:50:25,743 - INFO - Emoji '😂' sent successfully from sender device
+2025-03-12 14:51:19,403 - INFO - Image message test case started
+2025-03-12 14:51:19,403 - INFO - Drivers initialized for Image message workflow
+2025-03-12 14:52:22,307 - INFO - Text message test case started
+2025-03-12 14:52:22,307 - INFO - Drivers initialized for message workflow
+2025-03-12 14:52:35,556 - INFO - Message 'Welcome_1741771342' sent successfully from sender device
+2025-03-12 14:52:55,027 - INFO - Text message validated successfully on receiver device
+2025-03-12 14:52:55,027 - INFO - Text message test case ended successfully
+2025-03-12 14:53:15,783 - INFO - Emoji test case started
+2025-03-12 14:53:15,784 - INFO - Drivers initialized for emoji workflow
+2025-03-12 14:53:30,100 - INFO - Emoji '😀' sent successfully from sender device
+2025-03-12 14:53:49,449 - INFO - Emoji message validated successfully on receiver device
+2025-03-12 14:53:49,449 - INFO - Emoji test case ended successfully
+2025-03-12 14:54:10,327 - INFO - Image message test case started
+2025-03-12 14:54:10,327 - INFO - Drivers initialized for Image message workflow
+2025-03-12 14:57:55,193 - INFO - Text message test case started
+2025-03-12 14:57:55,194 - INFO - Drivers initialized for message workflow
+2025-03-12 14:58:08,812 - INFO - Message 'Welcome_1741771675' sent successfully from sender device
+2025-03-12 14:58:27,688 - INFO - Text message validated successfully on receiver device
+2025-03-12 14:58:27,689 - INFO - Text message test case ended successfully
+2025-03-12 14:58:48,322 - INFO - Emoji test case started
+2025-03-12 14:58:48,323 - INFO - Drivers initialized for emoji workflow
+2025-03-12 14:59:00,514 - INFO - Emoji '😎' sent successfully from sender device
+2025-03-12 14:59:19,129 - INFO - Emoji message validated successfully on receiver device
+2025-03-12 14:59:19,130 - INFO - Emoji test case ended successfully
+2025-03-12 14:59:39,730 - INFO - Image message test case started
+2025-03-12 14:59:39,731 - INFO - Drivers initialized for Image message workflow
+2025-03-12 15:04:12,854 - INFO - Image message test case started
+2025-03-12 15:04:12,856 - INFO - Drivers initialized for Image message workflow
+2025-03-12 15:38:14,174 - INFO - Image message test case started
+2025-03-12 15:38:14,174 - INFO - Drivers initialized for Image message workflow
+2025-03-12 15:53:46,028 - INFO - Image message test case started
+2025-03-12 15:53:46,029 - INFO - Drivers initialized for Image message workflow
+2025-03-12 15:53:58,411 - INFO - Chat opened successfully
+2025-03-12 15:55:29,772 - INFO - Image message test case started
+2025-03-12 15:55:29,773 - INFO - Drivers initialized for Image message workflow
+2025-03-12 15:55:42,340 - INFO - Chat opened successfully
+2025-03-12 15:59:41,252 - INFO - Image message test case started
+2025-03-12 15:59:41,253 - INFO - Drivers initialized for Image message workflow
+2025-03-12 15:59:54,157 - INFO - Chat opened successfully
+2025-03-12 16:05:24,957 - INFO - Image message test case started
+2025-03-12 16:05:24,958 - INFO - Drivers initialized for Image message workflow
+2025-03-12 16:05:38,164 - INFO - Chat opened successfully
+2025-03-12 16:15:33,012 - INFO - Image message test case started
+2025-03-12 16:15:33,013 - INFO - Drivers initialized for Image message workflow
+2025-03-12 16:15:45,877 - INFO - Chat opened successfully
+2025-03-12 16:15:49,780 - INFO - Image selected from gallery
+2025-03-12 16:15:49,781 - INFO - Image message test case ended successfully
+2025-03-12 16:16:48,575 - INFO - Image message test case started
+2025-03-12 16:16:48,576 - INFO - Drivers initialized for Image message workflow
+2025-03-12 16:17:00,021 - INFO - Chat opened successfully
+2025-03-12 16:17:03,847 - INFO - Image selected from gallery
+2025-03-12 16:17:03,847 - INFO - Image message test case ended successfully
+2025-03-12 16:40:08,231 - INFO - Image message test case started
+2025-03-12 16:40:08,233 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:09:05,292 - INFO - Image message test case started
+2025-03-13 11:09:05,296 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:09:57,532 - INFO - Image message test case started
+2025-03-13 11:09:57,533 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:34:48,108 - INFO - Image message test case started
+2025-03-13 11:34:48,109 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:38:32,348 - INFO - Image message test case started
+2025-03-13 11:38:32,349 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:38:44,591 - INFO - Chat opened successfully
+2025-03-13 11:42:30,682 - INFO - Image message test case started
+2025-03-13 11:42:30,683 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:46:51,084 - INFO - Image message test case started
+2025-03-13 11:46:51,085 - INFO - Drivers initialized for Image message workflow
+2025-03-13 11:52:22,646 - INFO - Emoji test case started
+2025-03-13 11:52:22,647 - INFO - Drivers initialized for emoji workflow
+2025-03-13 11:52:35,841 - INFO - Emoji '😂' sent successfully from sender device
+2025-03-13 11:58:53,719 - INFO - Emoji test case started
+2025-03-13 11:58:53,720 - INFO - Drivers initialized for emoji workflow
+2025-03-13 11:59:07,004 - INFO - Emoji '😎' sent successfully from sender device
+2025-03-13 11:59:25,729 - INFO - Emoji message validated successfully on receiver device
+2025-03-13 11:59:25,730 - INFO - Emoji test case ended successfully
+2025-03-13 12:00:00,756 - INFO - Image message test case started
+2025-03-13 12:00:00,757 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:00:37,427 - INFO - Image message test case started
+2025-03-13 12:00:37,427 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:07:30,220 - INFO - Image message test case started
+2025-03-13 12:07:30,221 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:11:13,250 - INFO - Image message test case started
+2025-03-13 12:11:13,251 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:11:21,804 - INFO - Chat opened successfully
+2025-03-13 12:13:33,663 - INFO - Image message test case started
+2025-03-13 12:13:33,664 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:13:42,800 - INFO - Chat opened successfully
+2025-03-13 12:14:57,740 - INFO - Image message test case started
+2025-03-13 12:14:57,741 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:15:06,165 - INFO - Chat opened successfully
+2025-03-13 12:18:00,120 - INFO - Emoji test case started
+2025-03-13 12:18:00,122 - INFO - Drivers initialized for emoji workflow
+2025-03-13 12:19:09,048 - INFO - Text message test case started
+2025-03-13 12:19:09,048 - INFO - Drivers initialized for message workflow
+2025-03-13 12:20:40,643 - INFO - Emoji test case started
+2025-03-13 12:20:40,645 - INFO - Drivers initialized for emoji workflow
+2025-03-13 12:20:52,904 - INFO - Emoji '😀' sent successfully from sender device
+2025-03-13 12:21:06,468 - INFO - Emoji message validated successfully on receiver device
+2025-03-13 12:21:06,468 - INFO - Emoji test case ended successfully
+2025-03-13 12:25:56,217 - INFO - Image message test case started
+2025-03-13 12:25:56,218 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:26:08,846 - INFO - Chat opened successfully
+2025-03-13 12:28:48,736 - INFO - Image message test case started
+2025-03-13 12:28:48,737 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:29:01,432 - INFO - Chat opened successfully
+2025-03-13 12:35:53,030 - INFO - Image message test case started
+2025-03-13 12:35:53,031 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:36:05,934 - INFO - Chat opened successfully
+2025-03-13 12:37:04,279 - INFO - Image message test case started
+2025-03-13 12:37:04,280 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:37:19,794 - INFO - Chat opened successfully
+2025-03-13 12:42:18,640 - INFO - Image message test case started
+2025-03-13 12:42:18,641 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:42:34,133 - INFO - Chat opened successfully
+2025-03-13 12:53:03,745 - INFO - Image message test case started
+2025-03-13 12:53:03,746 - INFO - Drivers initialized for Image message workflow
+2025-03-13 12:53:19,760 - INFO - Chat opened successfully
+2025-03-13 13:39:15,613 - INFO - Image message test case started
+2025-03-13 13:39:15,614 - INFO - Drivers initialized for Image message workflow
+2025-03-13 13:39:30,240 - INFO - Chat opened successfully
+2025-03-13 13:43:03,593 - INFO - Image message test case started
+2025-03-13 13:43:03,594 - INFO - Drivers initialized for Image message workflow
+2025-03-13 13:45:01,887 - INFO - Image message test case started
+2025-03-13 13:45:01,889 - INFO - Drivers initialized for Image message workflow
+2025-03-13 13:45:01,889 - INFO - Chat Opened for Image sending
+2025-03-13 13:45:17,399 - INFO - Chat opened successfully
+2025-03-13 14:02:32,798 - INFO - Image message test case started
+2025-03-13 14:02:32,799 - INFO - Drivers initialized for Image message workflow
+2025-03-13 14:02:32,800 - INFO - Chat Opened for Image sending
+2025-03-13 14:02:48,372 - INFO - Image sent successfully from sender device
+2025-03-13 15:06:25,979 - INFO - Image message test case started
+2025-03-13 15:06:25,979 - INFO - Drivers initialized for Image message workflow
+2025-03-13 15:06:25,980 - INFO - Chat Opened for Image sending
+2025-03-13 15:06:41,230 - INFO - Image sent successfully from sender device
+2025-03-13 15:09:24,452 - INFO - Image message test case started
+2025-03-13 15:09:24,453 - INFO - Drivers initialized for Image message workflow
+2025-03-13 15:09:24,453 - INFO - Chat Opened for Image sending
+2025-03-13 15:09:40,051 - INFO - Image sent successfully from sender device
+2025-03-13 16:01:07,350 - INFO - Image message test case started
+2025-03-13 16:01:07,353 - INFO - Drivers initialized for Image message workflow
+2025-03-13 16:01:07,353 - INFO - Chat Opened for Image sending
+2025-03-13 16:01:22,900 - INFO - Image sent successfully from sender device
+2025-03-17 11:49:15,624 - INFO - Image message test case started
+2025-03-17 11:49:15,628 - INFO - Drivers initialized for Image message workflow
+2025-03-17 11:49:15,628 - INFO - Chat Opened for Image sending
+2025-03-17 11:49:31,706 - INFO - Image sent successfully from sender device
