@@ -17,5 +17,9 @@ class Locators:
     SEND_BUTTON_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[3]/android.view.View/android.widget.Button"
     RECEIVED_MSG_INDEX1_XPATH = "//android.support.v7.widget.RecyclerView[@content-desc='Conversation list']/android.view.ViewGroup[1]"
     EMOJI_XPATH = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]"
-
+    ATTACH_BUTTON_ID = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.widget.Button"
+    GALLERY_OPTION_XPATH = "//android.view.ViewGroup[@content-desc='Gallery']/android.widget.ImageView"
+    FIRST_IMAGE_XPATH = "com.google.android.apps.messaging:id/local_media_item"
+    IMAGE_VALIDATION = "//android.widget.TextView[@text='Image Received']"
     #UNIQUE_MSG_VALIDATION = "//android.widget.TextView[contains(@content-desc, '{unique_msg}')]"
+

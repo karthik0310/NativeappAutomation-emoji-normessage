@@ -6,6 +6,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.remote.webdriver import WebElement
+from configurations.conftest import restart_drivers
+
+
 
 # Setting up logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -31,6 +34,12 @@ class BaseClass:
             logger.info(f"Screenshot saved: {screenshot_path}")
         except Exception as e:
             logger.error(f"Failed to save screenshot: {e}")
+
+    def restart_driver(self):
+        """
+        Restarts both drivers.
+        """
+        self.driver1, self.driver2 = restart_drivers(self.driver1, self.driver2)
 
     def get_element(self, locator_type: str, locator_value: str) -> WebElement:
         """Waits for an element to be present and returns it."""
