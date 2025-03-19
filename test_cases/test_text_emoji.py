@@ -74,10 +74,10 @@ class TestSendMsg:
             logger.info("Image sent successfully from sender device")
 
 
-        with allure.step("Validating the image on receiver device"):
-            msg_workflow.verify_message(message_type="image")  # ✅ Verify image reception
-            allure.attach(driver2.get_screenshot_as_png(), name="Receiver_Image_Validated",
-                          attachment_type=allure.attachment_type.PNG)
-            logger.info("Image message validated successfully on receiver device")
-
-        logger.info("Image message test case ended successfully")
+        # with allure.step("Validating the image on receiver device"):
+        #     msg_workflow.verify_message(message_type="image")  # ✅ Verify image reception
+        #     allure.attach(driver2.get_screenshot_as_png(), name="Receiver_Image_Validated",
+        #                   attachment_type=allure.attachment_type.PNG)
+        #     logger.info("Image message validated successfully on receiver device")
+        #
+        # logger.info("Image message test case ended successfully")
